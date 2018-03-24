@@ -3,6 +3,7 @@ C++ Snake Game
 
 
 Algorithm development
+
 Written in  Microsoft visual studio 2012.
 This program is written in C++ with SDL library. SDL is a simple cross-platform media library layer that is designed to deliver low and simplistic level access to mouse, audio, keyboard and many more. 
 
