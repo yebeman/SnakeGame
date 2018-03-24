@@ -3,7 +3,7 @@ C++ Snake Game
 
 
 
-
+_____________________
 Algorithm development
 
 Written in  Microsoft visual studio 2012.
